@@ -12,7 +12,7 @@
       "address": "0x69209F1E7A402959910a826D4F19890AD86eb90c",
       "symbol": "usdt",
       "decimals": 18,
-      "chainId": 8567,
+      "chainId": 18569,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd0A1E359811322d97991E03f863a0C30C2cF029C/logo.png"
     },
     {
@@ -20,7 +20,7 @@
       "address": "0x2b10C0C2EE2e460a520C340e81b6f695057fda8c",
       "symbol": "doge",
       "decimals": 18,
-      "chainId": 8567,
+      "chainId": 18569,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd0A1E359811322d97991E03f863a0C30C2cF029C/logo.png"
     }
   ],
